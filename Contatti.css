@@ -1,0 +1,67 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 892px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 9px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 339px;
+  width: 570px;
+  margin: 23px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  font-weight: 700;
+}
+
+.u-section-1 .u-social-icons-1 {
+  white-space: nowrap;
+  height: 93px;
+  min-height: 16px;
+  width: 299px;
+  min-width: 68px;
+  margin: 33px auto 0;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(59, 89, 152) !important;
+}
+
+.u-section-1 .u-icon-2 {
+  color: rgb(85, 172, 238) !important;
+}
+
+.u-section-1 .u-icon-3 {
+  color: rgb(197, 54, 164) !important;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  margin: 33px 0 0;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  font-size: 1.5rem;
+  margin: 48px auto 60px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
